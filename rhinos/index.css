@@ -31,7 +31,7 @@ h3{
     font-family: verdana !important;
     font-size: 100% !important;
     text-align: left;
-    width: relative;
+    width: relative !important;
     
 }
 
@@ -49,7 +49,8 @@ p{
     font-family: verdana !important;
     font-size: 100% !important;
     text-align: left !important;
-    width: 25% !important;
+    width: relative !important;
+    position: absolute !important;
     background-color: white !important;
 }
 

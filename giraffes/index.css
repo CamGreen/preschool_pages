@@ -50,6 +50,9 @@ p{
     font-size: 100%;
     text-align: left;
     width: fit-content;
+    width: relative !important;
+    position: absolute !important;
+    background-color: whitesmoke;
 }
 
 button {

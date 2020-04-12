@@ -1,0 +1,65 @@
+body {
+    background-image: url('rhino.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: cover;
+    background-position: center center;
+    max-width: width 100%;
+    height: auto
+}
+
+h1{
+    color: black;
+    font-family: verdana !important;
+    font-size: 300% !important;
+    text-align: center;
+    background-color: white;
+    position: relative;
+}
+
+h2{
+    font-family: verdana !important;
+    font-size: 125% !important;
+    text-align: center;
+    background-color: white;  
+    position: relative;
+    /* bottom: 625px; */
+    
+}
+
+h3{
+    font-family: verdana !important;
+    font-size: 100% !important;
+    text-align: left;
+    width: relative;
+    
+}
+
+h4{
+    font-family: verdana;
+    font-size: 100%;
+    text-align: left;
+    width: relative;
+    position: absolute;
+    background-color: white;
+    bottom: 5px;
+}
+
+p{
+    font-family: verdana !important;
+    font-size: 100% !important;
+    text-align: left !important;
+    width: 25% !important;
+    background-color: white !important;
+}
+
+button {
+    background-color: #3182bd;
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }

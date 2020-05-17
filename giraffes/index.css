@@ -40,9 +40,8 @@ h4{
     font-size: 100%;
     text-align: left;
     width: relative;
-    position: absolute;
+    position: relative;
     background-color: whitesmoke;
-    bottom: 5px;
 }
 
 p{
